@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Patricia-Canciano
-- 👀 I’m interested in  aprend e conseguir um bom emprego na area de tecnologia
-- 🌱 I’m currently learning ...Python
-- 📫 How to reach me ...
+- 👀 I currently work as a Computer Support Analyst.
+- 🌱 I am currently learning ... Web development using Python and Django
 
 <!---
 Patricia-Canciano/Patricia-Canciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
