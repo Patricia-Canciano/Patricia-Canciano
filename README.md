@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Patricia-Canciano
-- 👀 I currently work as a Computer Support Analyst.
-- 🌱 I am currently learning ... Web development using Python and Django
+- 👋 Olá, sou @Patricia-Canciano
+- 👀 Atualmente trabalho como Analista de Suporte. 
+- 🌱 Desenvolvimento Web usando HTML, JavaScript e PHP.
 
 <!---
 Patricia-Canciano/Patricia-Canciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
