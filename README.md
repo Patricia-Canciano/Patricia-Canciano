@@ -1,6 +1,7 @@
 - 👋 Olá, sou @Patricia-Canciano
-- 👀 Atualmente trabalho como Analista de Suporte. 
-- 🌱 Desenvolvimento Web usando HTML, JavaScript e PHP.
+-  Atualmente trabalho como Analista de Suporte. 
+- Desenvolvimento Web usando HTML, JavaScript e PHP, Python.
+- MySQL
 
 <!---
 Patricia-Canciano/Patricia-Canciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
